@@ -1,0 +1,16 @@
+C:\Users\ibm\source\repos\num.length\num.length\bin\Debug\net5.0\num.length.exe
+C:\Users\ibm\source\repos\num.length\num.length\bin\Debug\net5.0\num.length.deps.json
+C:\Users\ibm\source\repos\num.length\num.length\bin\Debug\net5.0\num.length.runtimeconfig.json
+C:\Users\ibm\source\repos\num.length\num.length\bin\Debug\net5.0\num.length.runtimeconfig.dev.json
+C:\Users\ibm\source\repos\num.length\num.length\bin\Debug\net5.0\num.length.dll
+C:\Users\ibm\source\repos\num.length\num.length\bin\Debug\net5.0\ref\num.length.dll
+C:\Users\ibm\source\repos\num.length\num.length\bin\Debug\net5.0\num.length.pdb
+C:\Users\ibm\source\repos\num.length\num.length\obj\Debug\net5.0\num.length.csproj.AssemblyReference.cache
+C:\Users\ibm\source\repos\num.length\num.length\obj\Debug\net5.0\num.length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibm\source\repos\num.length\num.length\obj\Debug\net5.0\num.length.AssemblyInfoInputs.cache
+C:\Users\ibm\source\repos\num.length\num.length\obj\Debug\net5.0\num.length.AssemblyInfo.cs
+C:\Users\ibm\source\repos\num.length\num.length\obj\Debug\net5.0\num.length.csproj.CoreCompileInputs.cache
+C:\Users\ibm\source\repos\num.length\num.length\obj\Debug\net5.0\num.length.dll
+C:\Users\ibm\source\repos\num.length\num.length\obj\Debug\net5.0\ref\num.length.dll
+C:\Users\ibm\source\repos\num.length\num.length\obj\Debug\net5.0\num.length.pdb
+C:\Users\ibm\source\repos\num.length\num.length\obj\Debug\net5.0\num.length.genruntimeconfig.cache
